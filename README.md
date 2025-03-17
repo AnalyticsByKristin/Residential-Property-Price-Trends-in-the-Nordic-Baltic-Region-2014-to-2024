@@ -1,31 +1,31 @@
 # Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2015-to-2024
 
 ![alt text](image-3.png)
-Europe modern complex of residential buildings
+*Image: Europe modern complex of residential buildings*
 
-*Image Source: [RomanBabakin](https://www.istockphoto.com/photo/europe-modern-complex-of-residential-buildings-gm1165384568-320657672)*
+*Source: [RomanBabakin](https://www.istockphoto.com/photo/europe-modern-complex-of-residential-buildings-gm1165384568-320657672)*
 
 
 ## 📝 PROJECT OVERVIEW
-This project analyzes **residential property price** trends across the countries of the Nordic-Baltic region using the **Resdential Property Price Index (RPPI)**. The HPI measures the percentage change in residential housing prices over time, with 2015 as the base year (2015=100). This provides a useful indicator for understanding property price changes over time. For instance, in the third quarter (Q3) of 2024, Estonia's HPI was reported at 211.03 points, indicating a significant increase since 2015.
+This project analyzes **residential property price** trends across some countries of the Nordic-Baltic region using the **Resdential Property Price Index (RPPI)**. The RPPI measures the percentage change in residential housing prices over time, with 2015 as the base year (2015=100). This provides a useful indicator for understanding property price changes over time. For instance, in the third quarter (Q3) of 2024, Estonia's RPPI was reported at 211.03 points, indicating a significant increase since 2015.
 
 However, it is important to note that the index reflects overall price movements and not actual property price changes. The actual price changes can vary based on several factors, such as:
-- **Geographical Location**: Prices in major cities (e.g., Tallinn, Riga) were typically higher than in rural areas.
+- **Geographical Location**: Prices in major cities are typically higher than in rural areas.
 
-- **Property Type**: Apartments, detached houses, and other residential properties experienced different starting price levels in 2015.
+- **Property Type**: Apartments, detached houses, and other residential properties experience different price levels.
 
-- **Market Dynamics**: Economic growth, supply-demand dynamics, and nvestment trends influenced regional price differences.
+- **Market Dynamics**: Economic growth, supply-demand dynamics, and investment trends influence regional price differences.
 
-Thus, while the RPPI provides valuable insights into price trends over time, it should be interpreted with an understanding that starting price levels in 2015 were not uniform, and the index reflects relative changes rather than absolute price differences across different regions and property types.
+Thus, while the RPPI provides valuable insights into price trends over time, it should be interpreted with an understanding that starting price levels in 2015 were not uniform, and that the index reflects relative changes rather than absolute price differences across different regions and property types.
 
 ## 📍 COUNTRIES COVERED
-Estonia, Latvia, Lithuania, Denmark, Sweden, Finland
+Denmark, Estonia, Finland, Latvia, Lithuania and Sweden.
 
 ## ⏳ TIME FRAME
 2015 - 2024 (Quarterly Data)
 
 ## 📈 KEY METRICS
-Residential Property Price Index (HPI), Growth Trends, Forecasting
+Residential Property Price Index (RPPI), Growth Trends, Forecasting.
 
 ## 🛠 TOOLS
 Microsoft Excel (Data cleaning, preprocessing, and merging)
@@ -33,7 +33,7 @@ Microsoft Excel (Data cleaning, preprocessing, and merging)
 Power BI (Data visualization, forecasting, and dashboard creation)
 
 ## 📥 DATA SOURCES
-The dataset includes quarterly residential property prices. The data was collected from the European Central Bank (ECB), which aggregates housing market information from various national statistical offices.
+The dataset includes quarterly residential property prices and was collected from the European Central Bank (ECB) website, which aggregates housing market information from various national statistical offices.
 
 ## ⚙️ DATA PROCESSING ANALYSIS AND VISUALIZATION
 The data was sourced, downloaded, extracted, and compiled into a single Excel file. To ensure accuracy and consistency, the dataset underwent thorough cleaning and preprocessing in Excel. This process involved separating date components to facilitate time-series analysis, filtering and selecting the relevant time period to ensure that only essential data was retained, and standardizing numerical and categorical values to maintain uniformity across the dataset.
@@ -43,10 +43,10 @@ The data was sourced, downloaded, extracted, and compiled into a single Excel fi
 
 Once the cleaned dataset was ready, it was imported into Power BI for further processing and visualization. The data was formatted and optimized by ensuring that each column had the correct data type, such as dates, numbers, and categorical values. Additionally, calculated measures and columns were created to extract deeper insights and facilitate comparisons.
 
-An interactive dashboard was designed, featuring four KPI cards and four key charts that illustrate residential property price trends across the Nordic-Baltic region, allowing for a clear understanding of regional comparisons. The analysis then drills down to Estonia’s HPI, providing future projections using Power BI’s built-in forecasting function, which was leveraged to develop predictive insights based on historical data trends. Additionally, four KPI cards were generated to highlight essential metrics and trends, ensuring a comprehensive and insightful analysis.
+An interactive dashboard was designed, featuring four KPI cards and four key charts that illustrate residential property price trends across the selected Nordic-Baltic countries, allowing for a clear understanding of regional comparisons. The analysis then drills down to Estonia’s RPPI, providing future projections based on historical data trends. Additionally, four KPI cards were generated to highlight essential metrics and trends, ensuring a comprehensive and insightful analysis.
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 *Residential Propery Price Trends - Dashboard*
 
 ## 📊 KEY INSIGHTS (CHARTS & KPIS)
@@ -58,9 +58,9 @@ An interactive dashboard was designed, featuring four KPI cards and four key cha
 
 🔹 Projected Trends in Estonia’s Residential Property Prices (2025-2027)
 
-🔹 Top HPI per Quarter (Highest values by country)
+🔹 Top RPPI per Quarter (Highest values by country)
 
-🔹 Lowest HPI per Quarter (Lowest values by country)
+🔹 Lowest RPPI per Quarter (Lowest values by country)
 
 ## 🔍 KEY FINDINGS
 🔹 Property prices across the Nordic-Baltic region have exhibited a consistent upward trend from 2014 to 2023. However, the rate of growth has varied, with some countries experiencing steeper price increases while others have seen more moderate growth patterns.
