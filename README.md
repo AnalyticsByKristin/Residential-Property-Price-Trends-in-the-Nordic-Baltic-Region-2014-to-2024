@@ -46,7 +46,7 @@ Once the cleaned dataset was ready, it was imported into Power BI for further pr
 
 An interactive dashboard was designed, featuring four KPI cards and four key charts that illustrate residential property price trends across the selected Nordic-Baltic countries, allowing for a clear understanding of regional comparisons. The analysis then drills down to Estonia’s RPPI, providing future projections based on historical data trends. Additionally, four KPI cards were generated to highlight essential metrics and trends, ensuring a comprehensive and insightful analysis.
 
-![alt text](image-9.png)
+![alt text](image-10.png)
 ![alt text](image-8.png)
 ![alt text](image-7.png)
 *Residential Propery Price Trends - Dashboard*
