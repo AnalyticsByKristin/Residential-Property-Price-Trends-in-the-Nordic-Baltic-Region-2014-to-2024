@@ -83,8 +83,8 @@ An interactive dashboard was designed, featuring four KPI cards and four key cha
 
 - [RPPI Data - Pre-Cleaning (Excel)](https://github.com/AnalyticsByKristin/Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2015-to-2024/raw/refs/heads/main/RPPI%20Data%20-%20Pre-Cleaning.xlsx) 
 - [ RPPI Data - Post-Cleaning (Excel)](https://github.com/AnalyticsByKristin/Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2015-to-2024/raw/refs/heads/main/RPPI%20Data%20-%20Post-Cleaning.xlsx)  
-- [Residential Property Pricing Index Dashboard (Power BI)](https://github.com/AnalyticsByKristin/Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2015-to-2024/raw/refs/heads/main/Residential%20Property%20Pricing%20Index%20(2015%20-%202024)%20-%20PowerBI.pbix)  
-- [Residential Property Prices Report (PDF)](https://github.com/AnalyticsByKristin/Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2015-to-2024/blob/bf142a1eb01c6c790362cc8ec285fbf1fcd4e07e/Residential%20property%20prices%20-%20Dashboard%20-%20PDF.pdf)  
+- [Residential Property Pricing Index Dashboard (Power BI)](https://github.com/AnalyticsByKristin/Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2014-to-2024/blob/0e02dabeb838c242ebf84e9590f3d5a7ad1b149e/Residential%20Property%20Pricing%20Index%20(2014%20-%202024)%20-%20PowerBI.pbix)  
+- [Residential Property Prices Report (PDF)](https://github.com/AnalyticsByKristin/Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2014-to-2024/blob/0e02dabeb838c242ebf84e9590f3d5a7ad1b149e/Residential%20Property%20Pricing%20Index%20-%20Dashboard%20-%20PDF.pdf)  
 
 ## 🔗 REFERENCES
 | Country   | Data Source |
