@@ -1,4 +1,4 @@
-# Residential-Property-Price-Trends-in-the-Nordic-Baltic-Region-2015-to-2024
+# Residential Property Price Trends in the Nordic-Baltic Region (2014-2024)
 
 ![alt text](image-3.png)
 
